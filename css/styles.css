@@ -1,0 +1,34 @@
+.has-bg-img { background: url('../images/team-rope-bg.jpg')center center; background-size:cover; }
+.has-bg-img-second { background: url('../images/team-two-rope-bg.jpg')center center; background-size:cover; }
+.has-bg-img-third { background: url('../images/krazd-fit-personal-trainers-outside-gym.jpg')center center; background-size:cover; }
+
+.is-orange-text {
+  color: #fc5d35 !important;
+}
+.is-krazdfit-table-bar {
+  color:#fc5d35ab !important;
+  background-color: #fc5d35ab !important;
+}
+.is-white-text-title {
+  color: white !important;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.button.is-orange {
+  background-color: #fc5d35 !important;
+  color: white !important;
+}
+
+.button.is-orange:hover {
+  background-color: white !important;
+  color: #fc5d35 !important;
+}
+
+.h1-krazdfit {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color:white;
+  text-shadow: 2px 2px 4px #000000;
+}
