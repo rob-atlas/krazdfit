@@ -24,6 +24,11 @@
   color: #fc5d35 !important;
 }
 
+.input.is-krazdfit-bg {
+  background-color: #14161a !important;
+  color: #a1a0a0 !important;
+}
+
 .h1-krazdfit {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
